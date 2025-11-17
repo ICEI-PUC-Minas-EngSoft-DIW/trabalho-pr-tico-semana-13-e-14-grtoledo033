@@ -9,10 +9,10 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Rangel De Toledo
+- Matricula:899902
+- Proposta de projeto escolhida:noticia
+- Breve descrição sobre seu projeto:charles henriquepedia
 
 **Print da tela com a implementação**
 
